@@ -1,4 +1,4 @@
-module github.com/luxfi/go-bip32
+module github.com/ixje/go-bip32-r1
 
 go 1.24
 
